@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="food_width">300dp</dimen>
+    <dimen name="food_textSize">60sp</dimen>
+    <dimen name="titleCountry_textSize" />
+    <dimen name="country_width">300</dimen>
+</resources>
